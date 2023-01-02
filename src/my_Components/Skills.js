@@ -15,7 +15,7 @@ export default function Skills() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Skills &amp; Technologies
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
+          <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-justify">
           "I am proficient in a number of web development technologies, including Java Script, React Js, Boot Strap, and Tailwind CSS. I have also gained experience with tools like vs code, git, and github, which have helped me streamline my workflow and collaborate effectively with others.  I am always looking for opportunities to learn and expand my skillset in the field of web development. These are the programming languages and their framework that I've been using to built responsive website."
           </p>
         </div>
