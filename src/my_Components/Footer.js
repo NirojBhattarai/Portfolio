@@ -12,9 +12,9 @@ export default function Footer() {
         <h1 className="sm:text-4xl text-3xl font-small title-font mb-4  text-white">
                     Stay Connected
                 </h1>
-                <div className="container px-5 py-10 mx-auto text-center lg:px-40">
-                    <div className="flex flex-col w-full mb-20">
-                      <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-3 mt-3 text-justify">"Thank you for taking the time to review my portfolio. I hope you have a better understanding of my skills and experience as a web developer. If you have any further questions or would like to discuss potential opportunities, please don't hesitate to get in touch. I am always open to new challenges and excited to learn and grow as a developer. You can stay connected with me through my LinkedIn profile or by contacting me directly through the information provided on this site. I look forward to staying in touch and possibly working together in the future."</p>
+                <div className="container  mx-auto text-center lg:px-40">
+                    <div className="flex flex-col w-full ">
+                      <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-justify">"Thank you for taking the time to review my portfolio. I hope you have a better understanding of my skills and experience as a web developer. If you have any further questions or would like to discuss potential opportunities, please don't hesitate to get in touch. I am always open to new challenges and excited to learn and grow as a developer. You can stay connected with me through my LinkedIn profile or by contacting me directly through the information provided on this site. I look forward to staying in touch and possibly working together in the future."</p>
                     </div>
                 </div>
                 <div className='flex items-center justify-center mb-0 ml-4'>
