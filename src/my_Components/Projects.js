@@ -15,7 +15,7 @@ export default function Projects() {
             Project's I've Built
           </h1>
           <p className="lg:w-full mx-auto leading-relaxed text-base text-justify">
-          "As a beginner web developer, I have had the opportunity to work on several prototype projects that have allowed me to build my skills and gain practical experience. These projects have allowed me to gain hands-on experience with technologies such as React Js and JavaScript, and have helped me build a strong foundation of skills. These experiences have given me valuable insight into the development process and have allowed me to apply my knowledge of React Js and JavaScript in a real-world setting. These are the some projects that I have built using JavaScript, HTML5, CSS3, Bootstrap, React JS, Tailwind CSS."
+          "As a beginner web developer, I have had the opportunity to work on several prototype projects that have allowed me to build my skills and gain practical experience. These projects have allowed me to gain hands-on experience with technologies such as React Js and JavaScript, and have helped me build a strong foundation of skills. These experiences have given me valuable insight into the development process and have allowed me to apply my knowledge of React Js and JavaScript in a real-world setting. These are the some projects that I have built using JavaScript, HTML5, CSS3, Bootstrap, React JS & Tailwind CSS."
           </p>
         </div>
         <div className="flex flex-wrap -m-4 ">

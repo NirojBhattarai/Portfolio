@@ -10,7 +10,7 @@ export default function About() {
             </svg>
            </div>
           <h1 className='title-font sm:text-3xl text-2xl mb-8 font-medium text-white text-center'>Neeraj Bhattarai<br className='hidden lg:inline-block'/></h1>
-          <p className='mb-8 leading leading-relaxed  text-justify'>"Hi! My name is Neeraj Bhattarai and I am currently a BSc.CSIT student. In addition to my studies, I am also learning web development with a focus on React Js and JavaScript. I am passionate about using technology to build innovative and user-friendly websites and applications. I am constantly learning and improving my skills, and I am excited to start putting my knowledge into practice through real-world projects. Thank you for visiting my portfolio."</p>
+          <p className='mb-8 leading leading-relaxed  text-justify'>"Hi ! My name is Neeraj Bhattarai and I am currently a BSc.CSIT student. In addition to my studies, I am also learning web development with a focus on React Js and JavaScript. I am passionate about using technology to build innovative and user-friendly websites and applications. I am constantly learning and improving my skills, and I am excited to start putting my knowledge into practice through real-world projects. Thank you for visiting my portfolio."</p>
           <div className='flex justify-center'>
             <a href='#contact' className='inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg'>Work With Me</a>
             <a href='#projects' className='ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg'>See My Past Work</a>
