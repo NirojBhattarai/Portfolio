@@ -26,7 +26,7 @@ export default function Contact() {
 
   return (
     <section id="contact" className="relative">
-      <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
+      <div className="container px-5 pt-10 pb-2 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
           <iframe
             width="100%"
@@ -73,7 +73,7 @@ export default function Contact() {
                   <path d="M5.26 17.242a.75.75 0 10-.897-1.203 5.243 5.243 0 00-2.05 5.022.75.75 0 00.625.627 5.243 5.243 0 005.022-2.051.75.75 0 10-1.202-.897 3.744 3.744 0 01-3.008 1.51c0-1.23.592-2.323 1.51-3.008z" />
               </svg>
             </div>
-          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font text-center">
+          <h2 className="text-white sm:text-4xl text-3xl mb-8 font-medium title-font text-center">
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
