@@ -8,10 +8,10 @@ export default function Footer() {
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="w-20 h-20 pr-7 -ml-3.25">
                      <path fillRule="evenodd" d="M1.371 8.143c5.858-5.857 15.356-5.857 21.213 0a.75.75 0 010 1.061l-.53.53a.75.75 0 01-1.06 0c-4.98-4.979-13.053-4.979-18.032 0a.75.75 0 01-1.06 0l-.53-.53a.75.75 0 010-1.06zm3.182 3.182c4.1-4.1 10.749-4.1 14.85 0a.75.75 0 010 1.061l-.53.53a.75.75 0 01-1.062 0 8.25 8.25 0 00-11.667 0 .75.75 0 01-1.06 0l-.53-.53a.75.75 0 010-1.06zm3.204 3.182a6 6 0 018.486 0 .75.75 0 010 1.061l-.53.53a.75.75 0 01-1.061 0 3.75 3.75 0 00-5.304 0 .75.75 0 01-1.06 0l-.53-.53a.75.75 0 010-1.06zm3.182 3.182a1.5 1.5 0 012.122 0 .75.75 0 010 1.061l-.53.53a.75.75 0 01-1.061 0l-.53-.53a.75.75 0 010-1.06z" clipRule="evenodd" />
                 </svg>
-             </div>
+                 </div>
                  <h1 className="text-white sm:text-4xl text-3xl mb-8 font-medium title-font text-center">
                     Stay Connected
-                </h1>
+                 </h1>
                 <div className="container  mx-auto text-center lg:px-40">
                     <div className="flex flex-col w-full ">
                       <p className="lg:w-full mx-auto my-2 leading-relaxed text-base text-justify">"Thank you for taking the time to review my portfolio. I hope you have a better understanding of my skills and experience as a web developer. If you have any further questions or would like to discuss potential opportunities, please don't hesitate to get in touch. I am always open to new challenges and excited to learn and grow as a developer. You can stay connected with me through my LinkedIn profile or by contacting me directly through the information provided on this site. I look forward to staying in touch and possibly working together in the future."</p>
@@ -120,10 +120,10 @@ export default function Footer() {
                         </svg>
                     </a>
                 </div>
-            </div>
-            <div className='text-center py-1 mr-6'>
+            <div className='text-center py-1'>
                 © 2023 Copyright Neeraj Bhattarai 
             </div>
+        </div>
             
     </footer>
   )
